@@ -1,0 +1,36 @@
+steps:
+  - name: 'gcr.io/cloud-builders/wget'
+    args:
+      - '--quiet'
+      - '-O'
+      - 'firebase'
+      - 'https://firebase.tools/bin/linux/latest'
+    waitFor: ['-']
+
+  - name: 'node:lts'
+    entrypoint: npm
+    args: 
+      - 'install'
+    waitFor: ['-']
+
+  - name: 'node:lts'
+    entrypoint: npm
+    args: 
+      - 'install'
+      - '-g'
+      - 'gatsby-cli'
+
+  - name: 'node:lts'
+    entrypoint: npm
+    args: 
+      - 'run'
+      - 'build'
+
+  - name: 'ubuntu:20.04'
+    args:
+    - 'bash'
+    - '-c'
+    - |
+      mv firebase /tmp
+      chmod 755 /tmp/firebase
+      /tmp/firebase deploy --non-interactive --only hosting -m "Build ${BUILD_ID}"

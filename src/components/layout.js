@@ -1,10 +1,16 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import { StaticImage } from 'gatsby-plugin-image'
+import { Helmet } from 'react-helmet'
 
 const Layout = ({ pageTitle, children }) => {
   return (
     <div>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{pageTitle} - 90to90</title>
+        <link rel="canonical" href="https://90to90.com/" />
+      </Helmet>
       <nav className="bg-white-900 p-4 mt-0 w-full">
         <div className="container mx-auto flex items-center">
           <div className="flex text-black font-extrabold">
