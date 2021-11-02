@@ -15,13 +15,13 @@ const Layout = ({ pageTitle, children }) => {
           <div className="flex pl-4 text-sm mx-auto">
             <ul className="list-reset flex justify-between flex-1 md:flex-none items-center">
               <li className="mr-2">
-                <Link className="mainmenu" to="/">Story</Link>
+                <Link className="mainmenu" to="/pages/story">Story</Link>
               </li>
               <li className="mr-2">
-                <Link className="mainmenu" to="/">Sleep</Link>
+                <Link className="mainmenu" to="/pages/sleep">Sleep</Link>
               </li>
               <li className="mr-2">
-                <Link className="mainmenu" to="/">Eat</Link>
+                <Link className="mainmenu" to="/pages/eat">Eat</Link>
               </li>
             </ul>
           </div>

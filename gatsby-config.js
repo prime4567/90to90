@@ -8,5 +8,13 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `md-pages`,
+        path: `${__dirname}/src/md-pages`,
+      },
+    },
+    `gatsby-transformer-remark`,
   ],
 };

@@ -9,3 +9,7 @@
 .body-text {
     @apply mb-4;
 }
+
+.page-content p {
+    @apply mb-4;
+}
