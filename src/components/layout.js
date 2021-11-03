@@ -9,7 +9,7 @@ const Layout = ({ pageTitle, children }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{pageTitle} - 90to90</title>
-        <link rel="canonical" href="https://90to90.com/" />
+        <link rel="canonical" href="https://90to90.benny.id/" />
       </Helmet>
       <nav className="bg-white-900 p-4 mt-0 w-full">
         <div className="container mx-auto flex items-center">
