@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://90to90dev.benny.id",
+    siteUrl: "https://90to90.benny.id",
     title: "90to90",
   },
   plugins: [
