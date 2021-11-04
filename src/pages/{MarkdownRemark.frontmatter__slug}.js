@@ -10,7 +10,9 @@ export default function Template({
   return (
     <Layout pageTitle={frontmatter.title}>
       <div className="container mx-auto mt-16 px-4 md:px-64">
-        <h1 className="flex justify-center text-2xl mb-4">{frontmatter.title}</h1>
+        <div className="page-title">
+          <h1>{frontmatter.title}</h1>
+        </div>
         <div
           className="page-content"
           dangerouslySetInnerHTML={{ __html: html }}
