@@ -10,6 +10,7 @@ const Layout = ({ pageTitle, children }) => {
         <meta charSet="utf-8" />
         <title>{pageTitle} - 90to90</title>
         <link rel="canonical" href="https://90to90.benny.id/" />
+        <meta name="description" content="90to90 adalah catatan perubahan gaya hidup untuk kualitas hidup yang lebih sehat, bahagia secara fisik, mental dan lebih ramah lingkungan" />
       </Helmet>
       <nav className="bg-white-900 p-4 mt-0 w-full">
         <div className="container mx-auto flex items-center">
