@@ -29,6 +29,9 @@ const Layout = ({ pageTitle, children }) => {
               <li className="mr-2">
                 <Link className="mainmenu" to="/pages/eat">Eat</Link>
               </li>
+              <li className="mr-2">
+                <Link className="mainmenu" to="/pages/move">Move</Link>
+              </li>
             </ul>
           </div>
         </div>
