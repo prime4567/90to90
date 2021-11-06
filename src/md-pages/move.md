@@ -12,6 +12,8 @@ Selama pandemi COVID 19, saya pun masih tetap cukup rutin berolah raga di pagi h
 
 Lalu apa yang berubah? Selain berolah raga di pagi hari, saya berusaha aktif sepanjang hari. Ketika melakukan teleconference, apabila saya tidak perlu melakukan presentasi, saya akan melakukan teleconference menggunakan telepon genggam, sambil jalan mengelilingi lapangan kecil di depan rumah. Lumayan, untuk sebuah teleconference selama 30 menit, bisa dapat sekitar 1000 - 1500 langkah.
 
-Jadi, selamat mencoba gaya hidup aktif.
+Salah satu yang juga cukup membantu, selain jalan di luar, adalah dengan menggunakan meja kerja berdiri. Sudah sejak lama saya menyiapkan meja kerja sehingga bisa menggunakan laptop sambil berdiri. Awal-awal sebelum terbiasa memang kaki cukup pegal. Saya menambahkan stool chair yang bisa digunakan untuk duduk kalau cukup pegal berdiri. Atau, pindahkan saja laptop ke meja makan, sehingga bisa bekerja sambil duduk untuk sementara waktu.
 
-Pamulang 6 November 2021
+Tidak susah bukan? Jadi, selamat mencoba gaya hidup aktif.
+
+Tabanan, 6 November 2021
