@@ -16,4 +16,4 @@ Salah satu yang juga cukup membantu, selain jalan di luar, adalah dengan menggun
 
 Tidak susah bukan? Jadi, selamat mencoba gaya hidup aktif.
 
-Tabanan, 6 November 2021
+Canggu, 10 November 2021
