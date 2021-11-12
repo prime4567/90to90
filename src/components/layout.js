@@ -1,9 +1,11 @@
-import * as React from 'react'
+import React from "react"
 import { Link } from 'gatsby'
 import { StaticImage } from 'gatsby-plugin-image'
 import { Helmet } from 'react-helmet'
 
 const Layout = ({ pageTitle, children }) => {
+  const [isExpanded, toggleExpansion] = React.useState(false)
+
   return (
     <div>
       <Helmet>
@@ -12,15 +14,19 @@ const Layout = ({ pageTitle, children }) => {
         <link rel="canonical" href="https://90to90.benny.id/" />
         <meta name="description" content="90to90 adalah catatan perubahan gaya hidup untuk kualitas hidup yang lebih sehat, bahagia secara fisik, mental dan lebih ramah lingkungan" />
       </Helmet>
-      <nav className="bg-white-900 p-4 mt-0 w-full">
-        <div className="container mx-auto flex items-center">
+      <nav className="flex justify-between items-center flex-wrap bg-white-900 p-4 mt-0 w-full">
           <div className="flex text-black font-extrabold">
-            <Link to="/" className="flex text-black text-base no-underline hover:no-underline">
+            <Link to="/" className="text-black text-base no-underline hover:no-underline">
               <StaticImage src="../images/90to90logo.png" alt="90to90 Logo" width={100}/>
             </Link>
           </div>
-          <div className="flex pl-4 text-sm mx-auto">
-            <ul className="list-reset flex justify-between flex-1 md:flex-none items-center">
+          <div className="block lg:hidden">
+            <button onClick={() => toggleExpansion(!isExpanded)} className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-gray hover:border-2">
+              <svg className="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+            </button>
+          </div>
+          <div className={`${ isExpanded ? `block` : `hidden` } w-full lg:w-auto lg:flex pl-4 text-sm lg:mx-auto`}>
+            <ul className="list-reset mt-4 lg:mt-0 lg:flex justify-between flex-1 md:flex-none items-center">
               <li className="mr-2">
                 <Link className="mainmenu" to="/pages/story">Story</Link>
               </li>
@@ -33,9 +39,11 @@ const Layout = ({ pageTitle, children }) => {
               <li className="mr-2">
                 <Link className="mainmenu" to="/pages/move">Move</Link>
               </li>
+              <li className="mr-2 hidden">
+                <Link className="mainmenu" to="/pages/mind">Mind</Link>
+              </li>
             </ul>
           </div>
-        </div>
       </nav>
       <main>
         {children}
