@@ -40,7 +40,7 @@ const Layout = ({ pageTitle, children }) => {
                 <Link className="mainmenu" to="/pages/move">Move</Link>
               </li>
               <li className="mr-2">
-                <Link className="mainmenu" to="/pages/money">Mind</Link>
+                <Link className="mainmenu" to="/pages/money">Money</Link>
               </li>
             </ul>
           </div>
