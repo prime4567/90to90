@@ -42,6 +42,9 @@ const Layout = ({ pageTitle, children }) => {
               <li className="mr-2">
                 <Link className="mainmenu" to="/pages/money">Money</Link>
               </li>
+              <li className="mr-2">
+                <Link className="mainmenu" to="/pages/less">Less</Link>
+              </li>
             </ul>
           </div>
       </nav>
