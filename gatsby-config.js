@@ -38,6 +38,12 @@ module.exports = {
           respectDNT: true,
         },
       }
+    },
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        output: "/sitemap",
+      }
     }
   ],
 };
