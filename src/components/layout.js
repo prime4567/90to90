@@ -56,30 +56,36 @@ const Layout = ({ pageTitle, children }) => {
       </main>
 
       <footer>
-        <div className="bg-white-900">
+        <div className="grid grid-1 md:grid-cols-2 lg:grid-cols-6 gap-8 bg-white-900 border-t-2 mt-6">
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-gray-500 text-sm text-center sm:text-left">
               <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><StaticImage alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
             </p>
-            {/*
-            <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
-              <a href="" className="text-gray-500">
-                <i className="fab fa-facebook-f"></i>
-              </a>
-              <a href="" className="ml-3 text-gray-500">
-                <i className="fab fa-twitter"></i>
-              </a>
-              <a href="" className="ml-3 text-gray-500">
-                <i className="fab fa-linkedin-in"></i>
-              </a>
-              <a href="" className="ml-3 text-gray-500">
-                <i className="fab fa-youtube"></i>
-              </a>
-              <a href="" className="ml-3 text-gray-500">
-                <i className="fab fa-instagram"></i>
-              </a>
-            </span> */}
           </div>
+          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+            <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+              Mental Health
+            </h6>
+            <p class="mb-4">
+              <Link className="mainmenu" to="/pages/hope">Hope</Link>
+            </p>
+          </div>
+          {/*
+          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+              <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+                Sleep Well
+              </h6>
+          </div>
+          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+              <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+                Move More
+              </h6>
+          </div>
+          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
+              <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+                Eat Better
+              </h6>
+          </div>*/}
         </div>
       </footer>
     </div>
