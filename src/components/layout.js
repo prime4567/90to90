@@ -48,9 +48,6 @@ const Layout = ({ pageTitle, children }) => {
               <li className="mr-2">
                 <Link className="mainmenu" to="/pages/mental">Mental</Link>
               </li>
-              <li className="mr-2">
-                <Link className="mainmenu" to="/pages/worry">Worry</Link>
-              </li>
             </ul>
           </div>
       </nav>
@@ -65,13 +62,16 @@ const Layout = ({ pageTitle, children }) => {
               <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><StaticImage alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
             </p>
           </div>
-          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
-            <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+          <div className="container mx-auto py-4 px-5">
+            <h6 class="uppercase font-semibold flex justify-center md:justify-start">
               Mental Health
             </h6>
-            <p class="mb-4">
-              <Link className="mainmenu" to="/pages/hope">Hope</Link>
+            <p>
+              <Link className="footermenu" to="/pages/worry">Worry</Link>
             </p>
+            <p>
+              <Link className="footermenu" to="/pages/hope">Hope</Link>
+            </p>          
           </div>
           {/*
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
