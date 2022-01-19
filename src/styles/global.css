@@ -28,3 +28,11 @@
 .page-content p {
     @apply mb-4;
 }
+
+ol {
+    @apply list-decimal list-outside mb-4;
+}
+
+li {
+    @apply lg:ml-4 mb-4;
+}

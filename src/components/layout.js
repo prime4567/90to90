@@ -72,6 +72,9 @@ const Layout = ({ pageTitle, children }) => {
             <p>
               <Link className="footermenu" to="/pages/hope">Hope</Link>
             </p>          
+            <p>
+              <Link className="footermenu" to="/pages/fun">Fun</Link>
+            </p>              
           </div>
           {/*
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
