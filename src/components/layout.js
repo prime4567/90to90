@@ -13,6 +13,8 @@ const Layout = ({ pageTitle, children }) => {
         <title>{pageTitle} - 90to90</title>
         <link rel="canonical" href="https://90to90.benny.id/" />
         <meta name="description" content="90to90 adalah catatan perubahan gaya hidup untuk kualitas hidup yang lebih sehat, bahagia secara fisik, mental dan lebih ramah lingkungan" />
+        <meta property="og:title" content="{pageTitle}" />
+        <meta property="og:image" content="../images/90to90logo.png" />
       </Helmet>
       <nav className="flex justify-between items-center flex-wrap bg-white-900 p-4 mt-0 w-full">
           <div className="flex text-black font-extrabold">

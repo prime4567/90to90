@@ -14,7 +14,7 @@ Makanan merupakan sumber energi bagi tubuh. Energi ini digunakan untuk kegiatan 
 
 Untuk kesehatan dan keseimbangan berat badan, dibutuhkan makanan yang baik dan seimbang. Saya memang belum sampai di sana. Untuk langkah awal, karena fokusnya untuk mengembalikan berat badan ke posisi normal, maka saya lebih mengukur jumlah kalori yang masuk, sambil memperhatikan jenis makanan. Pilihan praktek saya saat ini adalah moderasi, dimana makan karena lapar, bukan karena lapar mata.
 
-Saya menggunakan aplikasi MyFitnessPal untuk mencatat apa yang saya konsumsi, berapa kalori, dan berapa sisa kalori yang masih bisa dimakan. Target saya untuk menurunkan berat badan adalah defisit 500 kalori per hari. Hasilnya, berat badan selama 1 bulan ini sudah berkuran 2 kg.
+Saya menggunakan aplikasi [MyFitnessPal](https://www.myfitnesspal.com/) untuk mencatat apa yang saya konsumsi, berapa kalori, dan berapa sisa kalori yang masih bisa dimakan. Target saya untuk menurunkan berat badan adalah defisit 500 kalori per hari. Hasilnya, berat badan selama 1 bulan ini sudah berkuran 2 kg.
 
 Intinya, makan untuk hidup, bukan hidup untuk makan
 

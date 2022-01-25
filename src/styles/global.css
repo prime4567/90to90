@@ -34,5 +34,9 @@ ol {
 }
 
 li {
-    @apply lg:ml-4 mb-4;
+    @apply ml-4 mb-4;
+}
+
+p a {
+    @apply font-bold;
 }
