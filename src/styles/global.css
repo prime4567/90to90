@@ -16,6 +16,10 @@
     font-family: 'Rubik';
 }
 
+.footermenu-title {
+    @apply uppercase font-semibold flex justify-center md:justify-start;
+}
+
 .body-text {
     @apply mb-4;
 }

@@ -65,7 +65,7 @@ const Layout = ({ pageTitle, children }) => {
             </p>
           </div>
           <div className="container mx-auto py-4 px-5">
-            <h6 class="uppercase font-semibold flex justify-center md:justify-start">
+            <h6 class="footermenu-title">
               Mental Health
             </h6>
             <p>
@@ -78,15 +78,17 @@ const Layout = ({ pageTitle, children }) => {
               <Link className="footermenu" to="/pages/fun">Fun</Link>
             </p>              
           </div>
-          {/*
+          <div className="container mx-auto py-4 px-5">
+              <h6 class="footermenu-title">
+                Move More
+              </h6>
+              <p>
+                <Link className="footermenu" to="/pages/walk">Walk</Link>
+              </p>
+          </div>          {/*
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
               <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
                 Sleep Well
-              </h6>
-          </div>
-          <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
-              <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
-                Move More
               </h6>
           </div>
           <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
