@@ -4,7 +4,7 @@ date: "2022-06-04"
 title: "Death"
 ---
 
-Di pagi hari kita baru bertemu teman kita. Dia sangat segar bugar, bercanda, mungkin bahkan bekerja bersama. Lalu selang beberapa ja, kemudian, kita mendengar kabar duka, bahwa teman kita tersebut tutup usia. Begitulah misteri kematian yang senantiasa berada disekitar setiap orang hidup.
+Di pagi hari kita baru bertemu teman kita. Dia sangat segar bugar, bercanda, mungkin bahkan bekerja bersama. Lalu selang beberapa jam, kemudian, kita mendengar kabar duka, bahwa teman kita tersebut tutup usia. Begitulah misteri kematian yang senantiasa berada disekitar setiap orang hidup.
 
 Kematian beberapa orang di sekitar saya seakan memperkuat kenyataan bahwa hidup itu rapuh, dan kematian begitu dekat. Yang terakhir, seorang ayah/suami dari teman keluarga kami. Beliau masih muda, berusia 47 tahun, boleh dibilang seumuran dengan saya. In fact, banyak teman-teman seumuran saya yang tutup usia sebelum berusia 50 tahun. Kalau sudah begini, rasanya saya pun harus bertanya-tanya, apakah saya akan melewati usia 50 tahun?
 
