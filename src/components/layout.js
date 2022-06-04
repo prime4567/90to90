@@ -50,6 +50,9 @@ const Layout = ({ pageTitle, children }) => {
               <li className="mr-2">
                 <Link className="mainmenu" to="/pages/mental">Mental</Link>
               </li>
+              <li className="mr-2">
+                <Link className="mainmenu" to="/pages/death">Death</Link>
+              </li>
             </ul>
           </div>
       </nav>
