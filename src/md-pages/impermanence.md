@@ -1,6 +1,6 @@
 ---
 slug: "/pages/impermanence"
-date: "2022-06-04"
+date: "2022-06-27"
 title: "Impermanence"
 ---
 
@@ -13,3 +13,9 @@ Karena segala sesuatu yang ada atau yang kita alami saat ini tidak ada yang perm
 Lalu, bagaimana dengan agama? Kalau segala hal di dunia ini tidak permanen, apakah sebaiknya kita berpegang pada agama?
 
 Menurut pendapat saya, agama adalah kepercayaan bahwa ada sesuatu yang lebih besar dari kita. Beragam agama memiliki nama yang berbeda untuk hal yang lebih besar dari kita. Ada yang menyebut sebagai Tuhan, Allah, Dewa, dan lain sebagainya. Buat saya, menerima kenyataan bahwa ada yang lebih besar dari kita sangat membantu ketika kita berada dalam kondisi sulit. Dengan kepercayaan ini, maka saya juga percaya bahwa kondisi sulit akan berakhir, sesuai dengan konsep bahwa tidak ada yang permanen di dunia ini.
+
+Dan yang terpenting, dalam praktek Mindfulness, berhenti dan amati situasi kita saat ini. Bila kita saat ini sedang berada di situasi yang menyenangkan, dengan berhenti sejenak kita akan bisa menikmati situasi tersebut dengan tidka belebihan. Mungkin dengan minum alkohol secukupnya, atau makan secukupnya. Apabila kita sedang berada dalam situasi sulit, know that there is light at the end of the tunnel. Mungkin sekarang lampu itu sedang redup dan sulit terlihat. Apabila kita berhenti sejenak, kita lebih bisa melihat lampu tersebut, dan berpikir lebih jernih untuk bisa keluar dari situasi tersebut.
+
+Ingat, orang hidup tidak akan bahagia selamanya, juga tidak akan sulit selamanya. There are nothing permanent in this world.
+
+Ubud, 27 Juni 2022

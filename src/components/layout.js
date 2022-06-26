@@ -79,7 +79,10 @@ const Layout = ({ pageTitle, children }) => {
             </p>          
             <p>
               <Link className="footermenu" to="/pages/fun">Fun</Link>
-            </p>              
+            </p>
+            <p>
+              <Link className="footermenu" to="/pages/impermanence">Impermanence</Link>
+            </p>                
           </div>
           <div className="container mx-auto py-4 px-5">
               <h6 class="footermenu-title">
