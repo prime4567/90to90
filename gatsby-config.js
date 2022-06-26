@@ -36,6 +36,7 @@ module.exports = {
         pluginConfig: {
           // Setting this parameter is also optional
           respectDNT: true,
+          head: true,
         },
       }
     },
