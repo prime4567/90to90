@@ -7,20 +7,20 @@ steps:
       - 'https://firebase.tools/bin/linux/latest'
     waitFor: ['-']
 
-  - name: 'node:lts'
+  - name: 'node:16.15'
     entrypoint: npm
     args: 
       - 'install'
     waitFor: ['-']
 
-  - name: 'node:lts'
+  - name: 'node:16.15'
     entrypoint: npm
     args: 
       - 'install'
       - '-g'
       - 'gatsby-cli'
 
-  - name: 'node:lts'
+  - name: 'node:16.15'
     entrypoint: npm
     args: 
       - 'run'
